@@ -18,7 +18,7 @@ Ideal para quem está começando a programar e quer praticar entrada de dados, c
 ## 🛠️ Como Usar
 
 1. **Clone o repositório:**
-git clone https://github.com/seuusuario/conversor-unidades.git
+git clone https://github.com/rafaelmoreirax/conversor-unidades.git
 cd conversor-unidades
 
 2. **Execute o script:**
@@ -112,7 +112,7 @@ Este projeto está sob a licença MIT.
 
 ## 📫 Contato
 
-Dúvidas ou sugestões? Abra uma issue ou envie um e-mail para seuemail@exemplo.com
+Dúvidas ou sugestões? Abra uma issue!
 
 ---
 
